@@ -4,7 +4,9 @@
 </p>
 <p>Technologies I loved to use:</p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-E34F26?style=flat-square&logo=gatsby&logoColor=white" />
 
 
 <!--
