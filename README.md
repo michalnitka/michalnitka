@@ -1,6 +1,6 @@
 ## Hey 👋, 
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michal.nitka.work@gmail.com)](mailto:michal.nitka.work@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michal-nitka1991/)](https://www.linkedin.com/in/michal-nitka1991/) [![Github Badge](https://img.shields.io/badge/-grey?style=flat&logo=github&logoColor=white&link=https://github.com/michalnitka/)](https://www.github.com/michalnitka/) <p align='left'>My name is Michał Nitka, I'm looking for my first job as Front end Developer. I'm from Poland, living in Poznań and hope you'll enjoy my profile
+[![Linkedin Badge](https://img.shields.io/badge/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michal-nitka1991/)](https://www.linkedin.com/in/michal-nitka1991/) [![Github Badge](https://img.shields.io/badge/-grey?style=flat&logo=github&logoColor=white&link=https://github.com/michalnitka/)](https://www.github.com/michalnitka/) <p align='left'>My name is Michał Nitka, I'm looking for my first job as Front end Developer. I'm from Poland, living in Poznań and I hope you will like my profile.
 </p>
 <p>Technologies I loved to use:</p>
 <p>
