@@ -1,12 +1,10 @@
-## Hey 👋, This is Michał Nitka
+## Hey 👋, 
 [![Gmail Badge](https://img.shields.io/badge/-michal.nitka.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michal.nitka.work@gmail.com)](mailto:michal.nitka.work@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-michalnitka1991-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michalnitka1991/)](https://www.linkedin.com/in/michalnitka1991/) [![Github Badge](https://img.shields.io/badge/-michalnitka-grey?style=flat&logo=github&logoColor=white&link=https://github.com/michalnitka/)](https://www.github.com/michalnitka/) <p align='left'>I'm looking for my first job as a Front end Developer. 
+[![Linkedin Badge](https://img.shields.io/badge/-michalnitka1991-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michalnitka1991/)](https://www.linkedin.com/in/michalnitka1991/) [![Github Badge](https://img.shields.io/badge/-michalnitka-grey?style=flat&logo=github&logoColor=white&link=https://github.com/michalnitka/)](https://www.github.com/michalnitka/) <p align='left'>My name is Michał Nitka, I'm looking for my first job as Front end Developer. I'm from Poland, living in Poznań and hope you'll enjoy my profile
 </p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=michalnitka alt=michalnitka /> </p>
+<p>Technologies I loved to use:</p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=michalnitka&show_icons=true&include_all_commits=true)](https://github.com/michalnitka/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalnitka&layout=compact)](https://github.com/michalnitka/github-readme-stats)
 
 
 <!--
